@@ -1,0 +1,134 @@
+.navbar .brand {
+    font-size: 40px;
+}
+
+.subtitle {
+    line-height: 4.5;
+}
+
+.masthead {
+    padding: 110px 0 80px;
+    margin-bottom: 0;
+}
+
+.submenu {
+    margin-bottom: 20px;
+}
+
+.submenu .item {
+    margin-right:35px;
+    float: left;
+}
+
+.submenu .splitter {
+    margin-right:35px;
+    float: left;
+}
+
+.headImage {
+    float: left;
+    width: 30%;
+    margin-right: 10px;
+}
+
+.company {
+    margin-top: 20px;
+}
+
+.info {
+    font-size: 20px;
+}
+
+.newsImage img{
+    width: 290px;
+    height: 190px;
+}
+
+.newsHeader {
+    margin: 15px 0px;
+}
+
+.postauthor {
+    margin: 15px; 0px;
+}
+
+.newsContents {
+    margin: 10px 0px;
+}
+
+.chart {
+    margin: 10px 0px;
+}
+
+.yosou .buy, .yosou .sell {
+    width: 50%;
+    float: left;
+    text-align: center;
+    font-size: 40px;
+}
+
+.yosou .sell {
+    width: 50%;
+    float: left;
+}
+
+
+#detail .detailContainer {
+    width: 550px;
+}
+
+#detail .newsImage img{
+    width: 580px;
+    height: 350px;
+}
+
+.ui-widget-content {
+    background: white url();
+}
+
+.ui-widget-header {
+    border: none;
+    background: white url() 50% 50% repeat-x;
+    color: white;
+}
+
+.detailContainer {
+    height: 780px;
+    overflow: scroll;
+}
+
+#detail .btn-small {
+    font-size: 11px;
+}
+
+#detail .count {
+    margin: 30px 0;
+}
+
+#detail .frends{
+    margin-top: 30px;
+    margin-left: 45px;
+    width: 180px;
+}
+
+#detail .frends img{
+    margin: 5px;
+}
+
+.userranking td, .userranking th {
+    vertical-align:middle;
+    text-align: right;
+}
+
+.userranking .text {
+    text-align:left;
+}
+
+.footer {      
+    padding: 70px 0;
+    margin-top: 70px;
+    border-top: 1px solid #E5E5E5;
+    background-color: whiteSmoke;
+}
+
+
